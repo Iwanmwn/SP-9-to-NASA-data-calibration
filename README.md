@@ -9,6 +9,7 @@ Transfering time (because of GMT+0 work format of the photometers)
 */
 *
 /*  Перевод:
+
 Программа калибрующая данные СП-9 к мировому стандарту формата NASA по данным фотометра CE-318
 
 Функционал программы:
