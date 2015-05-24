@@ -6,9 +6,12 @@ Calibrates data and save it in format of CE-318;
 Saves calibration coefficients by approriate of each date and channel;
 Transfering time (because of GMT+0 work format of the photometers).
 
-Works with files: 
+Works with files:
+
 1) Native data file of SP9;
+
 2) Lev 1.5 of CE-318.
+
 Data from CE-318 can be downloaded from this site: http://aeronet.gsfc.nasa.gov/
 
 */
