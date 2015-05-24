@@ -3,11 +3,11 @@ Programm that calibrates SP-9 data to NASA world data format using data CE-318.
 
 Functionality of the program:
 
-Calibrates data and save it in format of CE-318;
+1) Calibrates data and save it in format of CE-318;
 
-Saves calibration coefficients by approriate of each date and channel;
+2) Saves calibration coefficients by approriate of each date and channel;
 
-Transfering time (because of GMT+0 work format of the photometers).
+3) Transfering time (because of GMT+0 work format of the photometers).
 
 
 Works with files:
@@ -26,11 +26,11 @@ Data from CE-318 can be downloaded from this site: http://aeronet.gsfc.nasa.gov/
 
 Функционал программы:
 
-Калибрует данные и записывет их в формате записи CE-318;
+1) Калибрует данные и записывет их в формате записи CE-318;
 
-Записывает соответсвующие калибровочные коэффициенты к каждой дате и каналу;
+2) Записывает соответсвующие калибровочные коэффициенты к каждой дате и каналу;
 
-Производит перевод времени (востребовано по причине работы приборов по GMT+0).
+3) Производит перевод времени (востребовано по причине работы приборов по GMT+0).
 
 
 Работает с файлами:
