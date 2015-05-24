@@ -39,4 +39,4 @@ Data from CE-318 can be downloaded from this site: http://aeronet.gsfc.nasa.gov/
 
 2) Файл с данными CE-318 уровня очистки 1.5.
 
-Данные фотометр CE-318 могут быть скачаны с сайта: http://aeronet.gsfc.nasa.gov/
+Данные фотометра CE-318 могут быть скачаны с сайта: http://aeronet.gsfc.nasa.gov/
